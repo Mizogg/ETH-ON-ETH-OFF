@@ -14,7 +14,7 @@ with open("eth.txt", "r") as file:
 print('Total Addresses Loaded:', line_count)       
 mylist = []
 
-with open('eth.txt', newline='', encoding='utf-8') as f:
+with open('ethlist.txt', newline='', encoding='utf-8') as f:
     for line in f:
         mylist.append(line.strip())
 
