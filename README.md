@@ -36,5 +36,19 @@ Generate Random ETH addresses and Private Keys and Saved to file.
 ## ✨✨YOUR POWER TO CONTROL THE MAGIC✨✨
 ![image](https://user-images.githubusercontent.com/88630056/129092572-bff5d91d-99db-4231-bde1-b4bfe00201c7.png)
 
+
+# ethprivatekey.py 
+
+Check Private Keys from File convert to Address and check Transactions.
+
+![image](https://user-images.githubusercontent.com/88630056/129259842-21ca665b-6a86-4bb2-945a-f5263de950f7.png)
+
+# ethtxchecker.py 
+
+Check ETH Address list for Transactions
+
+![image](https://user-images.githubusercontent.com/88630056/129259987-745e005f-c6d1-46b8-b9c2-ec8d83535367.png)
+
+
 Good Luck and Happy Hunting. Made by mizogg.co.uk
 Donations 3M6L77jC3jNejsd5ZU1CVpUVngrhanb6cD
