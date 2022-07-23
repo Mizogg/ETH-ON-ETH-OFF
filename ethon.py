@@ -104,6 +104,7 @@ def seek(r):
         print ( 'Ethereum Address    :  ', ethadd,  '  : TX = ',  str(TXS), end='\r')
         #print('\nPrivate key: ', priv.to_string().hex(), '\nAddress: ', ethadd, '  : TX = '  +  str(TXS))
         if int(TXS) > 0:
+            print('\nPrivate key: ', priv.to_string().hex(), '\nAddress: ', ethadd, '  : TX = '  +  str(TXS))
             f=open("ethFound.txt","a")
             f.write('\nPrivate key:'+ priv.to_string().hex())
             f.write('\nAddress:  '+ ethadd)
